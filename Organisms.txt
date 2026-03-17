@@ -1,0 +1,8 @@
+Homo sapiens	=Human
+Sus scrofa	=Pig
+Bos taurus	=Cow
+Felis catus	=Domestic cat
+Octodon degus	=Degu
+Macaca mulatta	=Monkey
+Gallus gallus	=Chicken
+Cavia porcellus	=Guinea pig
