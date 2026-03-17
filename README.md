@@ -8,14 +8,14 @@ To analyze Insulin Protein across species using alignment and phylogenetic analy
 - Clustal Omega (alignment and Phylogenetic tree)
 
 ## Organisms
-Homo sapiens	=Human
-Sus scrofa	=Pig
-Bos taurus	=Cow
-Felis catus	=Domestic cat
-Octodon degus	=Degu
-Macaca mulatta	=Monkey
-Gallus gallus	=Chicken
-Cavia porcellus	=Guinea pig
+- Homo sapiens	=Human
+- Sus scrofa	=Pig
+- Bos taurus	=Cow
+- Felis catus	=Domestic cat
+- Octodon degus	=Degu
+- Macaca mulatta	=Monkey
+- Gallus gallus	=Chicken
+- Cavia porcellus	=Guinea pig
 
 ## Workflow
 1. Retrieved Insulin Protein sequences from Uniprot
